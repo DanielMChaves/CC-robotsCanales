@@ -4,7 +4,7 @@
 
 **Curso:** 2014/2015
 
-**Autores:** [Daniel Melero Chaves] (https://github.com/DanielMChaves) y [Yerai Zamorano Graña] (https://github.com/yerai)
+**Autores:** [Daniel Melero Chaves](https://github.com/DanielMChaves) y [Yerai Zamorano Graña](https://github.com/yerai)
 
 **Lenguaje:** Java
 
